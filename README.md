@@ -455,6 +455,9 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[linear-cli](https://github.com/phnx-labs/linear-cli)** `⭐ 1` — Single-file Python CLI for Linear (the issue tracker), zero dependencies. Designed for use as a subagent tool by Claude Code, Codex, Gemini, or Cursor; ships a SKILL.md for drop-in Claude Code integration. MIT.
 
+- **[agent-trace](https://github.com/ertygiq/agent-trace)** `⭐ 0` — Text-only CLI for extracting filtered transcripts from Claude Code, Codex,
+ and Pi session files; useful for debugging, review, and piping transcripts into other tools. MIT.
+
 ---
 
 ## Contributing
